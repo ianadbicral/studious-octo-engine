@@ -9,6 +9,7 @@ prose:
           help: "Enter your post title"
           type: "text"
       - name: "tag"
+        field:
           element: "text"
           label: "Tags"
           help: "Enter your post tags (comma separated)"
