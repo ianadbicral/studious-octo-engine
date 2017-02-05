@@ -1,2 +1,15 @@
 prose:
   rooturl: "posts"
+  metadata:
+    posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post Title"
+          help: "Enter your post title"
+          type: "text"
+      - name: "tag"
+          element: "text"
+          label: "Tags"
+          help: "Enter your post tags (comma separated)"
+          type: "text"
