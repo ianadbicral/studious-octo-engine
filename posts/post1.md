@@ -1,6 +1,7 @@
 ---
-title : Post 1
-tag : github
+title: Post 1
+tag: github
+published: true
 ---
 
 # Post 1 #
