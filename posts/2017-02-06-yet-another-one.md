@@ -1,7 +1,7 @@
 ---
 published: false
 title: Yet Another One
-tag: submodule
+tags: submodule
 ---
 ## Yet Another One
 

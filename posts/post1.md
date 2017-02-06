@@ -1,6 +1,6 @@
 ---
 title: Post 1
-tag: github
+tags: github
 published: true
 ---
 

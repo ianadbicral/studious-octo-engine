@@ -2,13 +2,23 @@ prose:
   rooturl: "posts"
   metadata:
     posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "text"
+          value: "post"
       - name: "title"
         field:
           element: "text"
           label: "Post Title"
           help: "Enter your post title"
           type: "text"
-      - name: "tag"
+      - name: "tags"
         field:
           element: "text"
           label: "Tags"

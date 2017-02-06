@@ -1,7 +1,7 @@
 ---
 published: false
 title: My new Post
-tag: prose
+tags: prose
 ---
 ## A New Post
 
