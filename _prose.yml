@@ -1,5 +1,5 @@
 prose:
-  rooturl: "posts"
+  rooturl: "_posts"
   metadata:
     posts:
       - name: "published"
