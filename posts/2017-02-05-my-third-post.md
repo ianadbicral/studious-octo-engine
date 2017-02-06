@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: My Third Post
 tags: github
 layout: post
