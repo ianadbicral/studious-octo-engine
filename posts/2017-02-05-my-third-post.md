@@ -2,6 +2,7 @@
 published: false
 title: My Third Post
 tags: github
+layout: post
 ---
 ## A Third Post
 
